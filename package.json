@@ -1,0 +1,27 @@
+{
+  "name": "simple-react",
+  "version": "1.0.0",
+  "description": "react-learning",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "author": "zhichao.feng",
+  "license": "MIT",
+  "dependencies": {
+    "antd": "^4.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1",
+    "redux": "^4.0.5"
+  }
+}
