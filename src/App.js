@@ -4,7 +4,7 @@ export default class App extends React.Component {
     render() {
         return (
             <div id="myCanvas">
-                test002
+                test003
             </div>
         );
     }
